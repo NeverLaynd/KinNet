@@ -1,4 +1,4 @@
-# GKMDTA
+# KinNet
 
 mamba-ssm                          2.0.3
 numpy                              1.24.4

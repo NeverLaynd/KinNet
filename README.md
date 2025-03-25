@@ -8,3 +8,5 @@ scikit-learn                       1.3.2
 torch                              2.1.2
 torchvision                        0.16.2
 yarl                               1.9.4
+
+python main.py
